@@ -1,0 +1,10 @@
+{
+  "projects": [
+    "Dapper",
+    "Dapper.EntityFramework",
+    "Dapper.Contrib",
+    "Dapper.Rainbow",
+    "Dapper.SqlBuilder",
+    "Dapper.Tests"
+  ]
+}
